@@ -1,6 +1,8 @@
 # CS50-LAB
 Introduction to Computer Science
+
 lab50:
+
   files:
     - !include foo.c
     - !include foo.h
